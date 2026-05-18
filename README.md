@@ -1,11 +1,11 @@
-📚 Akshara-Deepa Tutor
+# 📚 Akshara-Deepa Tutor
 
 Akshara-Deepa Tutor is an offline Android learning application designed for SSLC students.  
 The application helps students track syllabus completion, attend self-check quizzes, monitor academic progress, and identify weak subject areas using visual performance analytics.
 
 ---
 
-🚀 Features
+# 🚀 Features
 
 - 🔐 Login and Registration System
 - 📖 Subject-wise Syllabus Tracking
@@ -20,7 +20,7 @@ The application helps students track syllabus completion, attend self-check quiz
 
 ---
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 | Technology | Purpose |
 |------------|----------|
@@ -36,7 +36,7 @@ The application helps students track syllabus completion, attend self-check quiz
 
 ---
 
-📱 Application Workflow
+# 📱 Application Workflow
 
 1. Student logs into the application  
 2. Selects subject and chapter  
@@ -49,7 +49,7 @@ The application helps students track syllabus completion, attend self-check quiz
 
 ---
 
-🎯 Problem Statement
+# 🎯 Problem Statement
 
 Many SSLC students face difficulty in tracking syllabus completion, monitoring academic progress, and identifying weak subject areas during self-study. Traditional study methods do not provide proper performance analysis or structured learning tracking.
 
@@ -62,31 +62,31 @@ Akshara-Deepa Tutor solves this problem by providing:
 
 ---
 
-📊 Key Modules
+# 📊 Key Modules
 
-🔐 Authentication Module
+## 🔐 Authentication Module
 - Login and Registration
 - Session Management
 
-📚 Learning Module
+## 📚 Learning Module
 - Subject and Chapter Tracking
 - Syllabus Completion Monitoring
 
-📝 Quiz Module
+## 📝 Quiz Module
 - MCQ-based self-check quizzes
 - Automatic score calculation
 
-📈 Analytics Module
+## 📈 Analytics Module
 - Spider Web Strength Map
 - Subject-wise performance tracking
 
-💾 Offline Storage Module
+## 💾 Offline Storage Module
 - Room Database integration
 - Local data persistence
 
 ---
 
-🧠 Strength Map Visualization
+# 🧠 Strength Map Visualization
 
 The application uses MPAndroidChart RadarChart to generate a Spider Web Strength Map that visually represents:
 
@@ -97,7 +97,7 @@ The application uses MPAndroidChart RadarChart to generate a Spider Web Strength
 
 ---
 
-📂 Project Structure
+# 📂 Project Structure
 
 ```bash
 Akshara-Deepa-Tutor/
@@ -114,6 +114,7 @@ Akshara-Deepa-Tutor/
 ├── activities/
 ├── models/
 └── README.md
+```
 
 ---
 
@@ -171,4 +172,13 @@ BGS College of Engineering and Technology
 
 ---
 
+# 📌 Internship Project
 
+This project was developed as part of the  
+**Android App Development Using Gen AI Internship Program** conducted by MindMatrix.io
+
+---
+
+# 📄 License
+
+This project is developed for educational and learning purposes.

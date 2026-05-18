@@ -114,3 +114,49 @@ Akshara-Deepa-Tutor/
 ├── activities/
 ├── models/
 └── README.md
+
+---
+
+📸 Screenshots
+
+Account Interface
+<img width="540" height="1204" alt="image" src="https://github.com/user-attachments/assets/08541f2f-e100-4c1b-9ba2-1adcdaedbf10" />
+
+Login Interface
+<img width="540" height="1204" alt="image" src="https://github.com/user-attachments/assets/95ed11b9-0017-47b6-b62f-f72dbdff0d1e" />
+
+Dashboard Screen
+<img width="540" height="1204" alt="image" src="https://github.com/user-attachments/assets/cf80e3f0-c09b-44fa-8e64-906e3b6ea8e5" />
+<img width="540" height="1204" alt="image" src="https://github.com/user-attachments/assets/0f46b278-150b-4a99-a55a-4a0c29f2bf59" />
+
+Quiz Result Analysis
+<img width="540" height="1204" alt="image" src="https://github.com/user-attachments/assets/69430743-504a-44e3-b16c-84185d77a48e" />
+
+Spider Web Strength Map
+<img width="540" height="1204" alt="image" src="https://github.com/user-attachments/assets/2deacd63-5fd0-4ab0-860f-7e9277402c96" />
+
+
+---
+
+
+🔮 Future Enhancements
+AI-based personalized quiz generation
+Cloud synchronization
+Multi-language support
+Teacher dashboard integration
+Student performance prediction
+Online learning resources
+
+
+---
+
+
+👩‍💻 Developed By
+Nayana BR
+
+Android App Development Intern
+BGS College of Engineering and Technology
+
+
+
+
